@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Junior Fullstack Developer appassionato! || A passionate Junior Fullstack Developer!</p>
+<p align="center">Fullstack Developer appassionato! || A passionate Fullstack Developer!</p>
 
 ###
 
