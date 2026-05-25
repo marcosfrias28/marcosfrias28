@@ -26,25 +26,21 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfrias28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=marcosfrias28&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosfrias28&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosfrias28&theme=codeSTACKr" alt="profile details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosfrias28&theme=codeSTACKr" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosfrias28&theme=codeSTACKr" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=marcosfrias28&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" alt="streak graph" />
 </div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosfrias28/marcosfrias28/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosfrias28/marcosfrias28/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosfrias28/marcosfrias28/output/snake-light.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosfrias28/marcosfrias28/output/snake.svg" />
   </picture>
-</div>
-
----
-
-<!-- SPOTIFY NOW PLAYING -->
-<div align="center">
-  <h3>🎵 Now Playing</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/v1?uid=marcosfrias28&cover_image=true&theme=dark" alt="Spotify Now Playing" />
 </div>
 
 ---
