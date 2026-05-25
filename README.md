@@ -11,8 +11,8 @@
     <tr>
       <td>
         <p align="left">
-          <strong>¡Hola! 👋 Soy <b>Marcos Frias</b></strong><br><br>
-          Soy desarrollador Fullstack apasionado por crear experiencias web únicas. Me encanta transformar ideas en código limpio y funcional, siempre buscando aprender algo nuevo. Cuando no estoy codeando, me vas a encontrar explorando nuevas tecnologías o tomando mates. 🧉
+          <strong>Hey there! 👋 I'm <b>Marcos Frias</b></strong><br><br>
+          I'm a Fullstack Developer passionate about building web experiences that feel great to use. I love turning ideas into clean, functional code — always learning, always improving. When I'm not coding, you'll find me exploring new tech, gaming, or enjoying a good espresso in Italy. 🍝
         </p>
       </td>
       <td>
@@ -43,7 +43,7 @@
 
 <!-- SPOTIFY NOW PLAYING -->
 <div align="center">
-  <h3>🎵 Escuchando ahora</h3>
+  <h3>🎵 Now Playing</h3>
   <img src="https://spotify-github-profile.vercel.app/api/v1?uid=marcosfrias28&cover_image=true&theme=dark" alt="Spotify Now Playing" />
 </div>
 
@@ -51,7 +51,7 @@
 
 <!-- TECH STACK -->
 <div align="center">
-  <h3>🛠️ Tecnologías</h3>
+  <h3>🛠️ Tech Stack</h3>
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117&color=161b22" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117&color=161b22" alt="TypeScript" />
@@ -70,12 +70,12 @@
 
 <!-- CURRENT FOCUS -->
 <div align="center">
-  <h3>🎯 Enfoque actual</h3>
+  <h3>🎯 Current Focus</h3>
   <br>
   <ul style="list-style: none; padding: 0; text-align: left; display: inline-block;">
-    <li>🔭 Actualmente trabajando en proyectos web con React, TypeScript y Astro, enfocado en rendimiento y UX.</li>
-    <li>🌱 Aprendiendo arquitecturas limpias, patrones de diseño y profundizando en el ecosistema de Node.js.</li>
-    <li>⚡ Dato curioso: Empecé a programar por curiosidad y hoy no puedo parar — cada línea de código es un nuevo desafío.</li>
+    <li>🔭 Building web projects with React, TypeScript and Astro — performance and UX first.</li>
+    <li>🌱 Diving deep into clean architecture, design patterns, and the Node.js ecosystem.</li>
+    <li>⚡ Started coding out of curiosity and never stopped — every line of code is a new challenge.</li>
   </ul>
 </div>
 
@@ -83,7 +83,7 @@
 
 <!-- SOCIAL / CONTACT -->
 <div align="center">
-  <h3>🌐 Conectemos</h3>
+  <h3>🌐 Let's Connect</h3>
   <br>
   <a href="https://www.linkedin.com/in/marcosfriasmolina/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="32" alt="linkedin logo" />
@@ -100,5 +100,5 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <sub>💻 Con ❤️ desde Argentina</sub>
+  <sub>💻 From Italy with ❤️</sub>
 </div>
