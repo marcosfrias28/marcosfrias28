@@ -1,49 +1,104 @@
-<h1 align="center">Marcos Frias</h1>
-
-###
-
-<p align="center">Fullstack Developer appassionato! || A passionate Fullstack Developer!</p>
-
-###
-
-<br clear="both">
-
+<!-- HEADER -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfrias28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=marcosfrias28&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosfrias28&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/marcosfrias28/marcosfrias28/main/banner.svg" alt="Marcos Frias Banner" />
 </div>
 
-###
+---
 
+<!-- ABOUT ME -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <table>
+    <tr>
+      <td>
+        <p align="left">
+          <strong>¡Hola! 👋 Soy <b>Marcos Frias</b></strong><br><br>
+          Soy desarrollador Fullstack apasionado por crear experiencias web únicas. Me encanta transformar ideas en código limpio y funcional, siempre buscando aprender algo nuevo. Cuando no estoy codeando, me vas a encontrar explorando nuevas tecnologías o tomando mates. 🧉
+        </p>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding animation" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-<br clear="both">
+<!-- GITHUB STATS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfrias28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=marcosfrias28&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosfrias28&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+</div>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosfrias28/marcosfrias28/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosfrias28/marcosfrias28/output/snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosfrias28/marcosfrias28/output/snake.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- SPOTIFY NOW PLAYING -->
+<div align="center">
+  <h3>🎵 Escuchando ahora</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/v1?uid=marcosfrias28&cover_image=true&theme=dark" alt="Spotify Now Playing" />
+</div>
+
+---
+
+<!-- TECH STACK -->
+<div align="center">
+  <h3>🛠️ Tecnologías</h3>
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117&color=161b22" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117&color=161b22" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117&color=161b22" alt="React" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=FF5D01&labelColor=0d1117&color=161b22" alt="Astro" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0d1117&color=161b22" alt="Tailwind CSS" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0d1117&color=161b22" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0d1117&color=161b22" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0d1117&color=161b22" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0d1117&color=161b22" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0d1117&color=161b22" alt="VS Code" />
+</div>
+
+---
+
+<!-- CURRENT FOCUS -->
+<div align="center">
+  <h3>🎯 Enfoque actual</h3>
+  <br>
+  <ul style="list-style: none; padding: 0; text-align: left; display: inline-block;">
+    <li>🔭 Actualmente trabajando en proyectos web con React, TypeScript y Astro, enfocado en rendimiento y UX.</li>
+    <li>🌱 Aprendiendo arquitecturas limpias, patrones de diseño y profundizando en el ecosistema de Node.js.</li>
+    <li>⚡ Dato curioso: Empecé a programar por curiosidad y hoy no puedo parar — cada línea de código es un nuevo desafío.</li>
+  </ul>
+</div>
+
+---
+
+<!-- SOCIAL / CONTACT -->
+<div align="center">
+  <h3>🌐 Conectemos</h3>
+  <br>
   <a href="https://www.linkedin.com/in/marcosfriasmolina/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="32" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/marcosfrias28/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="32" alt="instagram logo" />
   </a>
   <a href="mailto:marcofrias28@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="32" alt="gmail logo" />
   </a>
 </div>
 
-###
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <sub>💻 Con ❤️ desde Argentina</sub>
+</div>
